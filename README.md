@@ -13,7 +13,7 @@ This project compares I/O performance and processing efficiency between single-t
 2. **Extract the ZIP**
    - After extracting, the folder should look like this:
      ```
-     FinalProject-OS_FaichaiGroup/
+     FinalProject-OS_FaichaiGroup-main/
      ├── BirdNET-Lite.zip
      ├── README.md
      ├── processing_unit_test.ipynb
