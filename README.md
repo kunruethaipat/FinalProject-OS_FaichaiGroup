@@ -7,11 +7,11 @@ This project compares I/O performance and processing efficiency between single-t
 ## 🔧 Setup Instructions
 
 1. **Download the Repository**
-   - Click the green **Code** button (as shown in Picture 2).
+   - Click the green **Code** button.
    - Select **Download ZIP** to get the full repository.
 
 2. **Extract the ZIP**
-   - After extracting, the folder should look like this (Picture 5):
+   - After extracting, the folder should look like this:
      ```
      FinalProject-OS_FaichaiGroup/
      ├── BirdNET-Lite.zip
@@ -21,8 +21,8 @@ This project compares I/O performance and processing efficiency between single-t
      └── sample.wav
      ```
 
-3. **Unzip `BirdNET-Lite.zip`**
-   - Inside you'll find the following contents (like Picture 3 / Picture 6):
+3. **Note:** You do **not** need to unzip `BirdNET-Lite.zip`.
+   - For your reference, it contains the following:
      ```
      BirdNET-Lite/
      ├── analyze.py
@@ -50,7 +50,7 @@ This project compares I/O performance and processing efficiency between single-t
 ### 🧵 Processing Unit Comparison
 
 1. Open `processing_unit_test.ipynb` in Google Colab.
-2. Upload and extract `BirdNET-Lite.zip` (as shown in Picture 4).
+2. Upload and extract `BirdNET-Lite.zip`.
 3. Follow the sequence of cells to run audio analysis with:
    - Single-thread
    - Multi-thread using `ThreadPoolExecutor`
@@ -66,5 +66,4 @@ This project compares I/O performance and processing efficiency between single-t
 
 ---
 
-## 📁 Folder Structure (Visual Reference)
-
+Sec1 - Faichai Group
