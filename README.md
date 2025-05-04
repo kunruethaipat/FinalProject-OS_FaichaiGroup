@@ -70,5 +70,7 @@ This project compares I/O performance and processing efficiency between single-t
    - Adjust `max_workers` (e.g., `2` for 2 files processed in parallel).
 
 ---
+> ⚠️ **Note:** Processing time and performance results may vary depending on your internet connection and the current load on Google Colab's servers.
+---
 
 Sec1 - Faichai Group
